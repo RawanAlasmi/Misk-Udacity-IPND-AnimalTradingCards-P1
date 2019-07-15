@@ -1,0 +1,38 @@
+
+img{
+  width: 300px;
+  margin: 0px;
+  margin-bottom: 10px;
+  }
+
+li {
+ list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+.animal-list {
+  text-align: left;
+}
+.name {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.interesting {
+  font-style: italic;
+}
+
+.Container {
+  width: 300px;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  box-shadow: 10px 10px lightgrey;
+}
+
+.informations {
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
